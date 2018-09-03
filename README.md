@@ -1,3 +1,4 @@
+# 原作者删除了github地址，为了能够继续使用，我这里做了个备份。但版权信息依旧是原作者的。
 # [![Build Status](https://travis-ci.org/sonrisa/shorturl-service.png?branch=master)](https://travis-ci.org/sonrisa/shorturl-service) URL Shortener Service
 
 [![Latest Stable Version](https://poser.pugx.org/sonrisa/shorturl-service/v/stable.svg)](https://packagist.org/packages/sonrisa/shorturl-service) [![Total Downloads](https://poser.pugx.org/sonrisa/shorturl-service/downloads.svg)](https://packagist.org/packages/sonrisa/shorturl-service) [![Latest Unstable Version](https://poser.pugx.org/sonrisa/shorturl-service/v/unstable.svg)](https://packagist.org/packages/sonrisa/shorturl-service) [![License](https://poser.pugx.org/sonrisa/shorturl-service/license.svg)](https://packagist.org/packages/sonrisa/shorturl-service)
