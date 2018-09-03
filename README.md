@@ -18,7 +18,7 @@ Add the following to your `composer.json` file :
 ```js
 {
     "require": {
-        "sonrisa/shorturl-service":"dev-master"
+        "waimao/shorturl-service":"dev-master"
     }
 }
 ```

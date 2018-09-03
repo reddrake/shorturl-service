@@ -1,13 +1,15 @@
 {
     "name":"waimao/shorturl-service",
     "type":"library",
-    "homepage":"http://waimaobox.com",
+    "homepage":"http://nilportugues.com",
     "license":"MIT",
     "authors":
         [
             {
-                "name":"Reddrake",
-                "email":"eagleftf123@gmail.com"
+                "name":"Nil Portugués Calderó",
+                "email":"contact@nilportugues.com",
+                "homepage":"http://nilportugues.com",
+                "role":"Lead Developer"
             }
         ],
     "require":{
