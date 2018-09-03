@@ -1,0 +1,28 @@
+{
+    "name":"waimao/shorturl-service",
+    "type":"library",
+    "homepage":"http://waimaobox.com",
+    "license":"MIT",
+    "authors":
+        [
+            {
+                "name":"Reddrake",
+                "email":"eagleftf123@gmail.com",
+            }
+        ],
+    "require":{
+        "php":">=5.3.0"
+    },
+    "require-dev":{
+        "phpunit/phpunit":"3.7.*"
+    },
+    "config":{
+        "bin-dir":"bin/"
+    },
+    "autoload":{
+        "psr-0":{
+            "Waimao\\Service\\ShortLink":"src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
